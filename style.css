@@ -42,6 +42,7 @@ button{
     border: none;
     outline: none;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .sign-Up{
@@ -51,6 +52,10 @@ button{
 .face-btn
 {
     background-color: rgb(26, 26, 126);
+}
+
+.hove1:hover, .hove2:hover{
+    color: blue;
 }
 
 a{
