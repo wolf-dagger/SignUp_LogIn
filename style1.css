@@ -43,6 +43,7 @@ button{
     border: none;
     outline: none;
     cursor: pointer;
+    transition: 00.5s;
 }
 
 .log-in{
